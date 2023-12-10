@@ -1,0 +1,1 @@
+standard flowgram format sff binary file format used encode results pyrosequencing life sciences platform highthroughput sequencing sff files viewed edited converted dna baser sff workbench graphic tool converted fastq format seqcrumbs ncbi reference sff format bioinformaticsrelated article stub help wikipedia expanding httpsenwikipediaorgwikistandardflowgramformat

@@ -1,0 +1,1 @@
+archaeopteryx interactive computer software program written java viewing editing analyzing phylogenetic trees type program used variety analyses molecular data sets particularly designed phylogenomics besides tree description formats limited expressiveness newicknew hamphshire nexus also implements format archaeopteryx successor java program tree viewer

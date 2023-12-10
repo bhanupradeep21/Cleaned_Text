@@ -1,0 +1,1 @@
+priam enzymespecific profiles profils pour lidentification automatique du métabolisme method automatic detection likely enzymes protein sequences priam uses positionspecific scoring matrices also known profiles automatically generated enzyme httpsenwikipediaorgwikipriamenzymespecificprofiles

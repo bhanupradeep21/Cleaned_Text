@@ -1,0 +1,1 @@
+observed evolution strategies significant progress toward fitnessobjective functions optimum generally happen narrow band mutation step size σ narrow band called evolution window three wellknown methods adapt mutation step size σ evolution strategies simple functions empirically shown keep step size within evolution window httpsenwikipediaorgwikievolutionwindow

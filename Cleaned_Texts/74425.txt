@@ -1,0 +1,1 @@
+templates initial visibility currently defaults collapsed meaning hidden apart title bar change templates initial visibility state parameter may used
